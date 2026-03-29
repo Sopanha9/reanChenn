@@ -1,5 +1,5 @@
-python-telegram-bot
-openai
-gTTS
-python-dotenv
-# sqlite3 is included in Python's standard library
+python-telegram-bot==20.7
+openai==1.12.0
+gTTS==2.5.0
+python-dotenv==1.0.0
+psycopg2-binary==2.9.9
