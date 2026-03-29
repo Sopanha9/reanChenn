@@ -1,0 +1,5 @@
+python-telegram-bot
+openai
+gTTS
+python-dotenv
+# sqlite3 is included in Python's standard library
